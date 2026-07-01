@@ -199,7 +199,7 @@ Visualizations comparing:
 - Call Duration
 
 ##### Time Performance
-![Time Performance](Images/time_performance.png)
+![Time Performance](Images/time_performance_analysis.png)
 
 Monthly trends showing:
 
